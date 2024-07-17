@@ -1,0 +1,5 @@
+We will learn about 
+width
+Height
+color
+background image
